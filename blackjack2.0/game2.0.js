@@ -25,5 +25,6 @@ function dealcards(deck, numCardsHand){
 
 let playerhand = dealcards(deck, 2);
 let dealerhand = dealcards(deck, 2);
+
 console.log(deck);
 console.log(deck);
